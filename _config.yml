@@ -55,22 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -80,41 +64,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Options"
+  name             : "A summary"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
   location         : "Corfu,Greece"
-  employer         :
-  pubmed           : ""
   googlescholar    : "https://scholar.google.gr/citations?user=P5t-LWkAAAAJ&hl=el"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "c13garn@ionio.gr"
+  researchgate     : "https://www.researchgate.net/profile/Varvara-Garneli"
   github           : "bgarnb"
-  google_plus      :
-  keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  orcid            : "https://orcid.org/0000-0001-9137-9316"
+  
 
 
 # Reading Files
