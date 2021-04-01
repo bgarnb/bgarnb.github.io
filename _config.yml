@@ -65,6 +65,7 @@ analytics:
 # Site Author
 author:
   name             : "A summary"
+                   :
   avatar           : "avatar.jpg"
   location         : "Corfu,Greece"
   googlescholar    : "https://scholar.google.gr/citations?user=P5t-LWkAAAAJ&hl=el"
