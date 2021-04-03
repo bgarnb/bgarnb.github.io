@@ -6,7 +6,7 @@ date: 2018-03-04
 venue: 'Interactive Learning Environments'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2018.pdf'
 ---
-This paper concerns my first research project.
+
 
 [Download paper here](http://bgarnb.github.io/files/Garneli_2018.pdf)
 
