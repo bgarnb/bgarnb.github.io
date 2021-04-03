@@ -6,7 +6,6 @@ date: May 2017
 venue: 'British Journal of Educational Technology'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2017.pdf'
 ---
-This paper concerns my first research project.
 
 [Download paper here](http://bgarnb.github.io/files/Garneli_2017.pdf)
 
