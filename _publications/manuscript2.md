@@ -6,7 +6,6 @@ date: 2015-3-18
 venue: '2015 IEEE Global Engineering Education Conference (EDUCON)'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2015a.pdf'
 ---
-Part of my Doctoral Reserach
 
 [Download paper here](http://bgarnb.github.io/files/Garneli_2015a.pdf)
 
