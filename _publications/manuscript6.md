@@ -3,7 +3,7 @@ title: "Instructional media and teaching methods for engaging children with comp
 collection: publications
 permalink: /publication/manuscript1
 date: May 2017
-venue: 'British Journal of Educational Technology'
+venue: '2014 IEEE 14th International Conference on Advanced Learning Technologies'
 paperurl: 'http://bgarnb.github.io/files/4038a768.pdf'
 ---
 This paper concerns my first research project.
