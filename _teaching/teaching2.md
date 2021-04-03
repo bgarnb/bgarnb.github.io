@@ -7,4 +7,3 @@ venue: "Ionian University, Department of Informatics"
 date: 2017-11-01
 location: "Corfu, Greece"
 ---
-The course took place from 2017-11-01 to 2017-11-30
