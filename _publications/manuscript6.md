@@ -2,7 +2,7 @@
 title: "Instructional media and teaching methods for engaging children with computer programming"
 collection: publications
 permalink: /publication/manuscript1
-date: May 2017
+date: 2017-07-10
 venue: '2014 IEEE 14th International Conference on Advanced Learning Technologies'
 paperurl: 'http://bgarnb.github.io/files/4038a768.pdf'
 ---
