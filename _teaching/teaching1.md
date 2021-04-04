@@ -7,6 +7,7 @@ venue: "Ionian University, Department of Informatics"
 date: 2018-03-01
 location: "Corfu, Greece"
 ---
+
 Heading 1
 ======
 
