@@ -1,5 +1,5 @@
 ---
-title: "Serious game in Education"
+title: "Serious Games in Education"
 collection: talks
 type: "Summer School Workshop"
 permalink: /talks/talk5
