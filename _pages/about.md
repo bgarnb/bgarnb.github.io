@@ -12,7 +12,7 @@ I am a post doc researcher and my main interest concerns the use of Digital Game
 
 Research Interests
 ======
- Research Interests
+ 
 - Computing Education
 - Computational Thinking
 - Programming learning
