@@ -8,4 +8,5 @@ date: 2018-09-29
 location: "Corfu, Greece"
 ---
 
-A talk inspired by my dissertation **Learning through Making an Educational Game. The effects on Computational Thinking Development and student Motivation**. 
+A talk inspired by my dissertation ** A Video-game making approach in Science Education: Exploring Computational Thinking Skills Development
+and Student Motivation**. 
