@@ -1,5 +1,5 @@
 ---
-title: "Human Computer Interaction"
+title: " Interaction Design"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/teaching2
