@@ -26,7 +26,7 @@ Work experience
   * Teaching Computing and ICT in Secondary Education
 
 * Winter Semester 2017: Teaching the "Interaction Design" Course
-  * Ionian University, Department of Iformatics
+  * Ionian University, Department of Informatics
   * Duties included: workshops
   * Supervisor: Konstantinos Chorianopoulos
 
