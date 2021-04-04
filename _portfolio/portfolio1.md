@@ -4,6 +4,4 @@ excerpt: "Department of Informatics, Ionian University.'>"
 collection: portfolio
 ---
 
-The project was in the context of the Lifelong learning NSRF 2014 - 2020. The project was under the scientific supervision of Konstantinos Chorianopoulos and consisted of two researchers: 
-Varvara Garneli (post doc researcher)
-Konstantinos Patiniotis (PhD student).
+The project was in the context of the Lifelong learning NSRF 2014 - 2020. The project was under the scientific supervision of Konstantinos Chorianopoulos and consisted of two researchers: Varvara Garneli (post doc researcher) and Konstantinos Patiniotis (PhD student).
