@@ -3,7 +3,7 @@ title: "Adapting a Classic Platform Video Game to the Carbohydrate Counting Meth
 collection: talks
 type: "Paper presentation"
 permalink: /talks/talk3
-venue: "Proceedings of the 5th EAI International Conference on Smart Objects and Technologies for Social Good"
+venue: "5th EAI International Conference on Smart Objects and Technologies for Social Good"
 date: 2019-09-26
 location: "Valencia, Spain"
 ---
