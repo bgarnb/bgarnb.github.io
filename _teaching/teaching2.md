@@ -7,3 +7,12 @@ venue: "Ionian University, Department of Informatics"
 date: 2017-11-01
 location: "Corfu, Greece"
 ---
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
