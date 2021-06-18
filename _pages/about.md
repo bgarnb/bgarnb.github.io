@@ -26,6 +26,6 @@ Research Interests
 Special Issue
 =======
 
-<a href="https://www.mdpi.com/journal/education/special_issues/Gamebased_Learning/">Call of Papers</a>
-Special Issue: "Through COVID-19 and Beyond: How Game-Based Learning and Gamification Can Build More Resilient Educational Settings for Students and Their Teachers"
+<a href="https://www.mdpi.com/journal/education/special_issues/Gamebased_Learning/">Call of Papers:</a>
+Through COVID-19 and Beyond: How Game-Based Learning and Gamification Can Build More Resilient Educational Settings for Students and Their Teachers
  
