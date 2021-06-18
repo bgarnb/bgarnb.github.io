@@ -23,3 +23,8 @@ Research Interests
 - Game making for learning
 - Serious Games Design
 
+Special Issue
+=======
+
+Special Issue: "Through COVID-19 and Beyond: How Game-Based Learning and Gamification Can Build More Resilient Educational Settings for Students and Their Teachers"
+Call of Papers <a href="https://www.mdpi.com/journal/education/special_issues/Gamebased_Learning"></a>   
