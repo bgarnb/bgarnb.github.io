@@ -22,7 +22,7 @@ Work experience
 * December 1991 - November 1992
   * Programming Experience in a Shipping Company
   
-* 1993 - today
+* September 1993 - September 2021
   * Teaching Computing and ICT in Secondary Education
 
 * Winter Semester 2017: Teaching the "Interaction Design" Course
@@ -39,14 +39,16 @@ Work experience
   * Duties included: Researcher 
   * Supervisor: Konstantinos Chorianopoulos
 
+* September 2021: Laboratory Teaching: Multimedia Applications and Video Games, Department of Visual and Audio Art, Ionian University
+
 
 Skills
 ======
-* Computing Education
-* Serious Games in Education
+* Serious Games
   * Serious Games Design
   * "Game Making" for Learning
-* Computational Thinking
+* Multimedia Applications
+* Computing Education
 
 Publications
 ======
