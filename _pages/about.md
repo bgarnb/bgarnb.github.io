@@ -17,11 +17,12 @@ Research Interests
 ======
  
 - Serious Games
+  - Game Design 
+  - Game making for learning
+- Multimedia Applications 
 - Computing Education
-- Computational Thinking
-- Programming learning
-- Game making for learning
-- Serious Games Design
+  - Programming learning
+  - Computational Thinking
 
 Special Issue
 =======
