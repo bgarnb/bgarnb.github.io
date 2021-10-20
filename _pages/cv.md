@@ -39,15 +39,16 @@ Work experience
   * Duties included: Researcher 
   * Supervisor: Konstantinos Chorianopoulos
 
-* September 2021: Laboratory Teaching 
-    Multimedia Applications and Video Games, Department of Visual and Audio Art, Ionian University
+* September 2021: EDIP (Laboratory Teaching) Multimedia Applications and Video Games
+  * Department of Audio and Visual Arts
+  * Ionian University
 
 
 Skills
 ======
+* Video Games (Design and Programming)
 * Serious Games
-  * Serious Games Design
-  * "Game Making" for Learning
+* "Game Making" for Learning
 * Multimedia Applications
 * Computing Education
 
