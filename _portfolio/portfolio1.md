@@ -1,5 +1,5 @@
 ---
-title: "[Designing a Multiplyer Role Playing Game in Science Education](https://www.notion.so/f223a178734541b5a86804eee5a97d49?v=5078f76c9c40417c837140186b418d1b)"
+title: "[Designing a Multiplyer Role Playing Game in Science Education](https://multiplayer-science-game-design.notion.site/multiplayer-science-game-design/f223a178734541b5a86804eee5a97d49?v=5078f76c9c40417c837140186b418d1b)"
 excerpt: "Department of Informatics, Ionian University"
 collection: portfolio
 ---
