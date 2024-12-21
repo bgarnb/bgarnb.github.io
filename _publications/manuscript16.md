@@ -2,7 +2,7 @@
 title: "Speech Puzzles (Spuzzles): Engaging the Reduced, Causal, and Semantic Listening Modes for Puzzle Design in Audio Games"
 collection: publications
 permalink: /publication/manuscript16.md
-date: December 2021
+date: 2024
 venue: 'MDPI'
 paperurl: '[http://bgarnb.github.io/files/Grizioti2021_Chapter_Covid-19SurvivorDesignAndEvalu.pdf](https://github.com/bgarnb/bgarnb.github.io/blob/master/files/applsci-14-03858-v2.pdf)'
 ---
