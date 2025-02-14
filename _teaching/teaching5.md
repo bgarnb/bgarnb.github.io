@@ -1,8 +1,9 @@
 ---
-title: "Interactive Sound and Image Systems"
+title: " Interactive Sound and Image Systems"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /talks/teaching4
-venue: "Department of Audio and Visual Arts, Ionian University, 2021 - today"
+permalink: /teaching/teaching4
+venue: "Ionian University, Department of Audio and Visual Arts"
+date: 2021 - today
 location: "Corfu, Greece"
 ---
