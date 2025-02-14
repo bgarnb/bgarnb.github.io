@@ -7,4 +7,4 @@ venue: "Ionian University, Department of Audio and Visual Arts"
 date: 2021-10-1
 location: "Corfu, Greece"
 ---
-I am teaching the course till to day
+I am teaching the course till now
