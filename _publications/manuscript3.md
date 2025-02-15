@@ -1,7 +1,7 @@
 ---
 title: "Learning by playing and learning by making"
 collection: publications
-permalink: /publications/manuscript3.md
+permalink: /publication/manuscript3
 date: 2013-9-25
 venue: 'International Conference on Serious Games Development and Applications'
 paperurl: 'http://bgarnb.github.io/files/SGDA.pdf'
