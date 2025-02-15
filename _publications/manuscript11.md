@@ -3,8 +3,8 @@ title: "Game Mechanics of a Character Progression Multiplayer Role-Playing Game 
 collection: publications
 permalink: /publication/manuscript11
 date: 2020-12-09
-venue: 'nternational Conference on Games and Learning Alliance'
-paperurl: 'http://bgarnb.github.io/files/Garneli2020_Chapter_GameMechanicsOfACharacterProgr.pdf'
+venue: 'International Conference on Games and Learning Alliance'
+paperurl: 'http://bgarnb.github.io/files/manuscript11.pdf'
 ---
 
 
