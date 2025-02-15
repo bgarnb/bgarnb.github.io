@@ -1,7 +1,7 @@
 ---
 title: "Designing a 2D Platform Game with Mathematics Curriculum"
 collection: publications
-permalink: /publication/manuscript7
+permalink: /publications/manuscript7.md
 date: 2019
 venue: 'International Conference on Games and Learning Alliance'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2019c.pdf'
