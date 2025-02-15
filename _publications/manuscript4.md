@@ -1,7 +1,7 @@
 ---
 title: "Programming video games and simulations in science education: exploring computational thinking through code analysis"
 collection: publications
-permalink: /publications/manuscript4.md
+permalink: /publication/manuscript4
 date: 2018-03-04
 venue: 'Interactive Learning Environments'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2018.pdf'
