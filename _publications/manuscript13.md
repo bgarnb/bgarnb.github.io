@@ -2,7 +2,7 @@
 title: "Programming Human-Robot Interactions for Teaching Robotics within a Collaborative Learning Open Space: Robots Playing Capture the Flag Game - Programming Human-Robot Interactions within a Collaborative Learning Open Space"
 collection: publications
 permalink: /publication/manuscript13
-date: November 2021
+date: 2021
 venue: 'CHI Greece 2021'
 paperurl: 'http://bgarnb.github.io/files/Merkouris_2021.pdf'
 ---
