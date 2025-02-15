@@ -1,7 +1,7 @@
 ---
 title: "Integrating Science Tasks and Puzzles in Computer Role Playing Games"
 collection: publications
-permalink: /publications/manuscript8.md
+permalink: /publication/manuscript8
 date: 2019-07-15
 venue: 'Multimodal Technologies and Interaction'
 paperurl: 'http://bgarnb.github.io/files/mti-03-00055.pdf'
