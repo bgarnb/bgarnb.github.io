@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Informatics, Athens University of Economics and Business, Department of Informatics, 1992
-* Degree in Pedagogical Studies, Department of Graduate Students, School Of Pedagogical and Educational Education, 1993
-* M.S. in Informatics, Ionian University, 2013
-* Ph.D in Computing Education: A Video-game making approach in Science Education: Exploring Computational Thinking Skills Development
-and Student Motivation, Ionian University, Department of Informatics, 2017
+* B.Sc. in Informatics, Athens University of Economics and Business, Department of Informatics, 1992
+* Degree in Pedagogical Studies, Department of Graduate Studies, School of Pedagogical and Educational Training, 1993
+* M.Sc. in Informatics, Ionian University, 2013
+* Ph.D. in Computing Education, Ionian University, Department of Informatics, 2017
+Dissertation: "A Video-Game Making Approach in Science Education: Exploring Computational Thinking Skills Development and Student Motivation"
 
 Work experience
 ======
@@ -34,7 +34,7 @@ Work experience
   * Ionian University, Department of Informatics
   * Duties included: Lectures; Workshops;
 
-* March 2020 - June 2021: Post Doc Researcher 
+* March 2020 - June 2021: Post Doc Researcher "Designing a Multiplayer Role-Playing Game with Chemistry Content" 
   * Ionian University, Department of Informatics
   * Duties included: Researcher 
   * Supervisor: Konstantinos Chorianopoulos
