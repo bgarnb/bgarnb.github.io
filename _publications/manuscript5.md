@@ -1,7 +1,7 @@
 ---
 title: "Serious game development as a creative learning experience: lessons learnt"
 collection: publications
-permalink: /publication/manuscript5
+permalink: /publications/manuscript5.md
 date: 2015-05-18
 venue: '2015 IEEE/ACM 4th International Workshop on Games and Software Engineering'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2015.pdf'
