@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/manuscript14
 date: 2021-11-30
 venue: 'GALA conf 2021'
-paperurl: 'bgarnb.github.io/files/manuscript14.pdf'
+paperurl: 'http://bgarnb.github.io/files/manuscript14.pdf'
 ---
 
 <b> Recommended citation:</b> Garneli, V., & Chorianopoulos, K. (2021, December). Employing Social Interactions of Multiplayer Role-Playing Games in a Serious Game. In International Conference on Games and Learning Alliance (pp. 220-229). Springer, Cham.
