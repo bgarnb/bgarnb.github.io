@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 Survivor: Design and Evaluation of a Game to Improve Students’ Experience During Social Isolation"
+title: "Covid-19 Survivor: Design and Evaluation of a Game to Improve Student Experience During Social Isolation"
 collection: publications
 permalink: /publication/manuscript15
 date: 2021
