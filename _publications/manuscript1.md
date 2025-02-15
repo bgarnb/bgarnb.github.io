@@ -1,7 +1,7 @@
 ---
 title: "Serious games as a malleable learning medium: The effects of narrative, gameplay, and making on students' performance and attitudes"
 collection: publications
-permalink: /publications/manuscript1
+permalink: /publications/manuscript1.md
 date: May 2017
 venue: 'British Journal of Educational Technology'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2017.pdf'
