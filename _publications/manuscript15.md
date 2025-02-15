@@ -2,7 +2,7 @@
 title: "Covid-19 Survivor: Design and Evaluation of a Game to Improve Students’ Experience During Social Isolation"
 collection: publications
 permalink: /publication/manuscript15
-date: December 2021
+date: 2021
 venue: 'GALA conf 2021'
 paperurl: 'http://bgarnb.github.io/files/manuscript15.pdf'
 ---
