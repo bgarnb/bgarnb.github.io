@@ -1,7 +1,7 @@
 ---
 title: "Computing education in K-12 schools: A review of the literature"
 collection: publications
-permalink: /publications/manuscript2.md
+permalink: /publication/manuscript2
 date: 2015-3-18
 venue: '2015 IEEE Global Engineering Education Conference (EDUCON)'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2015a.pdf'
