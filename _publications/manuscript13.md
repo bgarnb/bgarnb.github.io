@@ -1,5 +1,5 @@
 ---
-title: "Programming Human-Robot Interactions for Teaching Robotics within a Collaborative Learning Open Space: Robots Playing Capture the Flag Game - Programming Human-Robot Interactions within a Collaborative Learning Open Space"
+title: "Programming Human-Robot Interactions for Teaching Robotics within a Collaborative Learning Open Space: Robots Playing Capture the Flag Game"
 collection: publications
 permalink: /publication/manuscript13
 date: 2021
