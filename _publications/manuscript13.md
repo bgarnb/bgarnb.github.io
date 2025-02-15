@@ -3,7 +3,7 @@ title: "Programming Human-Robot Interactions for Teaching Robotics within a Coll
 collection: publications
 permalink: /publication/manuscript13
 date: 2021
-venue: 'CHI Greece 2021'
+venue: 'CHI Greece'
 paperurl: 'http://bgarnb.github.io/files/Merkouris_2021.pdf'
 ---
 
