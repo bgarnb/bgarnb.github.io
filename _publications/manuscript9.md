@@ -1,6 +1,6 @@
 ---
 title: "The effects of video game making within science content on student computational thinking skills and performance"
-permalink: /publications/manuscript9.md
+permalink: /publication/manuscript9
 date: 2019-11-18
 venue: 'Interactive Technology and Smart Education'
 paperurl: 'http://bgarnb.github.io/files/Garneli_2019.pdf'
