@@ -1,5 +1,5 @@
 ---
-title: "A systematic review of augmented reality in mathematics education: Fostering learning through art integration"
+title: "A Systematic Review of Augmented Reality in Mathematics Education: Fostering Learning through Art Integration"
 collection: publications
 permalink: /publication/manuscript18
 date: 2024-11-20
