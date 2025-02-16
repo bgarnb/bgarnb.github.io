@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Design and Development of the World in Tabletop Role-Playing Games with Historical Content: The Process and Challenges of Content Integration"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/teaching4
+type: "Thesis Supervision"
+permalink: /teaching/teaching9
 venue: "Ionian University, Department of Audio and Visual Arts"
-date: 2021-10-1
+date: 2024-02
 location: "Corfu, Greece"
 ---
-I am currently teaching this course
+
