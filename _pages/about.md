@@ -11,22 +11,26 @@ redirect_from:
 Introduction
 ======
 
-I am a researcher and my main interests concern the use of Digital Games for purposes beyond entertaiment and the multimedia applications. I have been engaged with different approaches of Game-based Learning, such as the Design Process, the Integration of Educational Content in the Gameplay Mechanics, the Collaborative Perspective of Digital Games, and the idea of Game Making for learning purposes. 
+I am a member of the Special Teaching Staff (E.DI.P.) at the Department of Audio and Visual Arts of the Ionian University. I also participate in the Institute of Games Research (IGR),the Interactive Arts Laboratory (In.Arts), the Gaming Gamification research group, and the 'Avarts Live Game Hub' initiative.
+
+My academic and research interests include interactive multimedia and games, both digital and analog. I also explore gamification, game design methodologies that serve purposes beyond entertainment, and strategies for integrating content from various disciplines into games.
+
+Additionally, I have a strong research interest in the design and implementation of innovative, fully developed game systems in augmented and virtual reality within the metaverse, aimed at meeting the interactive needs of specific user groups.
+
+Finally, I have participated in projects related to games, gamification, and learning within game-based environments
+
 
 Research Interests
 ======
  
+- Game Design and Development
 - Serious Games
-  - Game Design 
+  - Content Integration
   - Game making for learning
 - Multimedia Applications 
 - Computing Education
-  - Programming learning
+  - Game Programming
   - Computational Thinking
 
-Special Issue
-=======
 
-<a href="https://www.mdpi.com/journal/education/special_issues/Gamebased_Learning/">Call for Papers:</a>
-Through COVID-19 and Beyond: How Game-Based Learning and Gamification Can Build More Resilient Educational Settings for Students and Their Teachers
  
