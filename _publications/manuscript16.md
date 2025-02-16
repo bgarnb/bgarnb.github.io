@@ -1,7 +1,7 @@
 ---
-title: "Speech Puzzles (Spuzzles): Engaging the Reduced, Causal, and Semantic Listening Modes for Puzzle Design in Audio Games"
+title: "Speech Puzzles -Spuzzles: Engaging the Reduced, Causal, and Semantic Listening Modes for Puzzle Design in Audio Games"
 collection: publications
-permalink: /publication/manuscript16.md
+permalink: /publication/manuscript16
 date: 2024-04-30
 venue: 'MDPI'
 paperurl: 'bgarnb.github.io/files/manuscript16.pdf'
