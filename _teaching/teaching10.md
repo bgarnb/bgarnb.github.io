@@ -4,6 +4,6 @@ collection: teaching
 type: "Thesis Supervision"
 permalink: /teaching/teaching10
 venue: "Ionian University, Department of Audio and Visual Arts"
-date: 2023-09-01
+date: 2023-09
 location: "Corfu, Greece"
 ---
